@@ -1,12 +1,6 @@
----
-title: CrawlMacOS
----
-
 {% include header.html %}
 
-# CrawlMacOS
-
-**CrawlMacOS** is a fully automated framework for exploring macOS applications via the accessibility API. It generates a large-scale dataset of full-desktop screenshots, interaction graphs, and task specifications — enabling research in complex, multi-window desktop agents.
+**CrawlMacOS** is a fully automated framework for exploring macOS applications via the accessibility API. It generates a large-scale dataset of full-desktop screenshots, interaction graphs, and task specifications, enabling research in complex, multi-window desktop agents.
 
 ![CrawlMacOS Banner](assets/banner.png)
 
