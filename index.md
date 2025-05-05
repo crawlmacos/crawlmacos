@@ -4,10 +4,10 @@
 
 ![CrawlMacOS Banner](assets/banner.png)
 
-![CrawlMacOS Crawler](assets/MoneyWiz.gif)
-![CrawlMacOS Crawler2](assets/Session.gif)
-![CrawlMacOS Crawler3](assets/Reminders.gif)
-![CrawlMacOS Crawler3](assets/Stocks.gif)
+% ![CrawlMacOS Crawler](assets/MoneyWiz.gif)
+% ![CrawlMacOS Crawler2](assets/Session.gif)
+% ![CrawlMacOS Crawler3](assets/Reminders.gif)
+% ![CrawlMacOS Crawler3](assets/Stocks.gif)
 
 ## 🚀 Key Features
 
