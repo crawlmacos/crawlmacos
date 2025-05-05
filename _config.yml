@@ -1,4 +1,4 @@
-title: CrawlMacOS: A Dataset for Multi-Window Desktop Agents
+title: CrawlMacOS
+description: A scalable framework and dataset for macOS GUI exploration and task automation
 theme: jekyll-theme-cayman
-description: A scalable crawler and benchmark dataset for training LLM-powered agents on macOS desktop environments.
-show_downloads: true
+
