@@ -1,0 +1,4 @@
+title: CrawlMacOS: A Dataset for Multi-Window Desktop Agents
+theme: jekyll-theme-cayman
+description: A scalable crawler and benchmark dataset for training LLM-powered agents on macOS desktop environments.
+show_downloads: true
