@@ -4,7 +4,6 @@
 
 ![CrawlMacOS Banner](assets/banner.png)
 
-<img src="assets/MoneyWiz.gif" alt="CrawlMacOS Crawler" width="300">
 <img src="assets/Session.gif" alt="CrawlMacOS Crawler2" width="300">
 <img src="assets/Reminders.gif" alt="CrawlMacOS Crawler3" width="300">
 <img src="assets/Stocks.gif" alt="CrawlMacOS Crawler4" width="300">
